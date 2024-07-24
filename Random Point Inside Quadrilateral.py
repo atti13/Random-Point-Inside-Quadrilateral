@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
 
 import random
 from shapely.geometry import Polygon, Point
@@ -28,16 +23,4 @@ xBL, yBL = map(float, input("Enter x and y for Bottom Left corner (separated by 
 
 xR, yR = generate_random_point_in_quadrilateral(xTL, yTL, xTR, yTR, xBR, yBR, xBL, yBL)
 print(f"Random point inside the quadrilateral: ({xR}, {yR})")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
