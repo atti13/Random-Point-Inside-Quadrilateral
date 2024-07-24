@@ -19,7 +19,7 @@
    - For each generated point, a check is performed to determine if the point lies inside the quadrilateral.
    - This check is done using the `contains` method from Shapely, which uses the **Ray-Casting Algorithm**.
 
-# Ray-Casting Algorithm (Even-Odd Rule)
+## Ray-Casting Algorithm (Even-Odd Rule)
 
 Steps of the Ray-Casting Algorithm:
 
