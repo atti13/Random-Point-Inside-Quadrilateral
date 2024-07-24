@@ -1,7 +1,7 @@
 # Random-Point-Inside-Quadrilateral
 
 
-# Steps and Algorithms Used
+## Steps and Algorithms Used
 
 1. Defining the Quadrilateral:
    - The quadrilateral is defined using the coordinates of its four corners.
