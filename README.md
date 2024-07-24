@@ -1,7 +1,7 @@
 # Random-Point-Inside-Quadrilateral
 
 
-#Steps and Algorithms Used
+# Steps and Algorithms Used
 
 1. Defining the Quadrilateral:
    - The quadrilateral is defined using the coordinates of its four corners.
@@ -19,7 +19,7 @@
    - For each generated point, a check is performed to determine if the point lies inside the quadrilateral.
    - This check is done using the `contains` method from Shapely, which uses the **Ray-Casting Algorithm**.
 
-#Ray-Casting Algorithm (Even-Odd Rule)
+# Ray-Casting Algorithm (Even-Odd Rule)
 
 Steps of the Ray-Casting Algorithm:
 
